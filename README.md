@@ -1,5 +1,0 @@
-## [Paraverse Team] 
-
-###Team:
-
-
