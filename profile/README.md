@@ -1,6 +1,6 @@
 ## Paraverse Team
 
-### Members:<br>
+### Programmers:<br>
 [Abhishek Mohan](https://github.com/AbhishekMohan)<br>
 [Abhinav Mohan](https://github.com/AbhinavMohan96)<br>
 [Prabdeep Dhaliwal](https://github.com/prabdhal)<br>
