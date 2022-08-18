@@ -1,5 +1,8 @@
 ## Paraverse Team
 
+![Paraverse Logo v3 JPG](https://user-images.githubusercontent.com/16825453/185442023-9e01acff-d70f-4a1f-beb6-efe8124f0dbb.jpg)
+
+
 ### Programmers:<br>
 [Abhishek Mohan](https://github.com/AbhishekMohan)<br>
 [Abhinav Mohan](https://github.com/AbhinavMohan96)<br>
