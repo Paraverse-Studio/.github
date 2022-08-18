@@ -5,6 +5,15 @@
 [Abhinav Mohan](https://github.com/AbhinavMohan96)<br>
 [Prabdeep Dhaliwal](https://github.com/prabdhal)<br>
 
+
+### Games and Software in the works:<br>
+Colossal Saga (game)<br>
+Ozone Guardian (game)<br>
+Paraverse Software Management Tool (learning module tool)<br>
+Paraverse Lair (Hub/launcher program)<br>
+Paraverse Booter (internal bootstrapper)
+
+
 <!--
 
 **Here are some ideas to get you started:**
