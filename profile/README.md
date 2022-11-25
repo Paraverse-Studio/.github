@@ -1,5 +1,5 @@
 # Paraverse Team 
-<br>![NeoParaverse No BG high res CROPPED](https://user-images.githubusercontent.com/16825453/203938906-70768ae3-85e0-43e1-a84e-70de79363844.png)
+<br>![NeoParaverse No BG high res CROPPED](https://user-images.githubusercontent.com/16825453/203941490-b6c0a6b6-ad91-4c31-8497-45d60101c401.png)
 
 ## Team<br>
 [Abhishek Mohan](https://github.com/AbhishekMohan)  — Programmer, Designer, Artist<br> 
