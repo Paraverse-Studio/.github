@@ -4,9 +4,9 @@
 
 
 ### Team:<br>
-[Abhishek Mohan](https://github.com/AbhishekMohan)<br> (Programmer, designer, artist)
-[Abhinav Mohan](https://github.com/AbhinavMohan96)<br> (Programmer, web developer)
-[Prabdeep Dhaliwal](https://github.com/prabdhal)<br> (Programmer, generalist)
+[Abhishek Mohan](https://github.com/AbhishekMohan) (Programmer, designer, artist)<br> 
+[Abhinav Mohan](https://github.com/AbhinavMohan96) (Programmer, web developer)<br> 
+[Prabdeep Dhaliwal](https://github.com/prabdhal) (Programmer, generalist)<br> 
 
 
 ### Games and Software in the works:<br>
