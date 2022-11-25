@@ -1,7 +1,5 @@
-## Paraverse Team
-
-![Paraverse Logo v3 JPG](https://user-images.githubusercontent.com/16825453/185442023-9e01acff-d70f-4a1f-beb6-efe8124f0dbb.jpg)
-
+# Paraverse Team 
+<br>![NeoParaverse No BG high res CROPPED](https://user-images.githubusercontent.com/16825453/203938906-70768ae3-85e0-43e1-a84e-70de79363844.png)
 
 ## Team<br>
 [Abhishek Mohan](https://github.com/AbhishekMohan)  — Programmer, Designer, Artist<br> 
@@ -10,7 +8,7 @@
 <br>
 
 
-## Products in the works<br>
+## Products in the works
 
 ### Games
 Colossal Saga (game)<br>
@@ -19,8 +17,10 @@ Ozone Guardian (game)<br>
 ### Software
 Paraverse Software Management Tool (learning module tool)<br>
 Paraverse Lair (Hub/launcher program)<br>
-Paraverse Booter (internal bootstrapper)
+Paraverse Booter (internal bootstrapper)<br>
 
+
+![Paraverse Logo v3 JPG](https://user-images.githubusercontent.com/16825453/185442023-9e01acff-d70f-4a1f-beb6-efe8124f0dbb.jpg)
 
 <!--
 
