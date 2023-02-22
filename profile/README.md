@@ -4,7 +4,7 @@
 ## Team<br>
 [Abhishek Mohan](https://github.com/AbhishekMohan)  — Programmer, Designer, Artist<br> 
 [Abhinav Mohan](https://github.com/AbhinavMohan96)  — Programmer, Web Developer<br> 
-[Prabdeep Dhaliwal](https://github.com/prabdhal)  — Programmer, Generalist<br> 
+[Prabdeep Dhaliwal](https://github.com/prabdhal)  — Programmer, Systems Developer, Generalist<br> 
 <br>
 
 
