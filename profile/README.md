@@ -11,9 +11,9 @@
 ## Products in the works
 
 ### Games
-Colossal Saga (2020)(discontinued)<br>
-Ozone Guardian Mobile (2023)(Android + PC)<br>
-Cube Hero Odyssey (2023)(Browser + PC)
+Colossal Saga (2020) (discontinued)<br>
+Ozone Guardian Mobile (2023) (Android + PC)<br>
+Cube Hero Odyssey (2023) (Browser + PC)
 
 ### Software
 Paraverse Software Management Tool (learning module tool)<br>
