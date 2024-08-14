@@ -2,7 +2,7 @@
 <br>![NeoParaverse No BG high res CROPPED](https://user-images.githubusercontent.com/16825453/203941490-b6c0a6b6-ad91-4c31-8497-45d60101c401.png)
 
 ## Team<br>
-[Abhishek Mohan](https://github.com/AbhishekMohan)  — Software Developer, Game Designer, UI/VFX Artist<br> 
+[Abhishek Mohan](https://github.com/AbhishekMohan)  — Software Developer, Game Designer, Illustrator<br> 
 [Abhinav Mohan](https://github.com/AbhinavMohan96)  — Software Developer, Web Developer<br> 
 [Prabdeep Dhaliwal](https://github.com/prabdhal)  — Software Developer, Systems Developer, Generalist<br> 
 Zaigham Ali — Media Manager, Editor, and Security<br>
