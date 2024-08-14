@@ -8,9 +8,7 @@
 Zaigham Ali — Media Manager, Editor, and Security<br>
 [Isha Verma](https://github.com/IshaV1225) — Software Developer<br>
 Nikhil Mohan — Software Developer<br>  
-
 <br>
-
 
 ## Products in the works
 
